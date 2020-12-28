@@ -9,5 +9,5 @@
 - Normalize.css
 - Font Awesome packages
 - Hooks:
-  - `useEventListener`
-  - `useWindowResize`
+  - `useOutsideClick`
+  - `useWindowSize`
